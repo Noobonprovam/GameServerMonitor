@@ -1,6 +1,6 @@
 {
-    "name": "Discord Game Server Monitor",
-    "description": "📺 A discord bot that monitors your game server and tracks the live data of your game servers.",
+    "name": "Force RP",
+    "description": "📺 Мониторинг Дискорд Сервера.",
     "repository": "https://github.com/DiscordGSM/GameServerMonitor",
     "logo": "https://discordgsm.com/android-chrome-192x192.png",
     "keywords": ["game", "python", "discord", "discord-bot", "slash-commands", "discordgsm", "game-server-monitoring"],
